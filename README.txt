@@ -1,7 +1,7 @@
 - 1st assignment: Find project
 
 I built it in C++ cause it'ss easier for me. Code can be found in Find.cpp
-When executed it displays a menu where you can execute the test or the find function.
+When executed (Between\x64\Debug\FindProject.exe) it displays a menu where you can execute the test or the find function.
 
 
 - 2nd assignment: Shapes project
